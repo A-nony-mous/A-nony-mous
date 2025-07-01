@@ -42,7 +42,7 @@
 ## 🔨 My Work
 
 - [LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator): I learned .NET programing here.
-
+- [ZZZ-OneDragon]https://github.com/OneDragon-Anything/ZenlessZoneZero-OneDragon: I learned PySide and automation here.
 
 ## 💻 My Stats
 
